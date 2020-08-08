@@ -3,6 +3,7 @@
 # by Matthew Johnson
 
 
+
 # The two companion functions written for this assignment use the lexical scoping rules of R. They allow for the inverse of an  
 # input matrix to be calculated once and cached so that, when needed again, it can be accessed directly rather than recalculated.
 
